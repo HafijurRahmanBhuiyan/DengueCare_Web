@@ -1,7 +1,7 @@
 
-# 🏥 DengueCare – System Design Course Project (CS307)
+# 🏥 DengueCare – Web App Course Project (CSE309)
 
-This repository contains the complete codebase and documentation for **DengueCare**, a healthcare web application developed as part of the **System Design (CS307)** course under the supervision of **Dr. Mahady Hasan**, Department of Computer Science and Engineering.
+This repository contains the complete codebase and documentation for **DengueCare**, a healthcare web application developed as part of the **Web App (CSE309)** course under the supervision of **Abu Syed**, Department of Computer Science and Engineering.
 
 ---
 
@@ -114,10 +114,10 @@ Each role has access to dedicated dashboards and relevant functionalities.
 
 ## 👨‍🏫 Course Details
 
-- **Course:** CS307 – System Design  
-- **Instructor:** Dr. Mahady Hasan  
+- **Course:** CSE309 – Web Application  
+- **Instructor:** Abu Syed  
 - **Institution:** Department of CSE, Independent University , Bangladesh  
-- **Term:** Spring 2025
+- **Term:** Summer 2025
 
 ---
 
@@ -131,8 +131,8 @@ This project is for academic and educational purposes only.
 
 ## 👨‍💻 Developer
 
-- **Name:** Feroz Mahmud  
-- **Student ID:** 2030036  
-- **Email:** [2030036@iub.edu.bd](mailto:2030036@iub.edu.bd)
+- **Name:** Hafijur Rahman Bhuiyan  
+- **Student ID:** 2230707  
+- **Email:** [2230707@iub.edu.bd](mailto:2230707@iub.edu.bd)
 
 ---
